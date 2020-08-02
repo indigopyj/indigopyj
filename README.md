@@ -1,16 +1,12 @@
-### Hi there 👋
+### 👋 indigo / @indigopyj / Yeo Jeong Park
 
-<!--
-**indigopyj/indigopyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📝 Education
+- Ewha Womans' University, South Korea (2016.03 ~ )
+- Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
+  
+#### 🔨 Career
+- Naver Search&Clova Research Internship (2020.07 ~ 2020.10)
+- SNU MIPAL Internship   (2020.01 ~ 2020.02)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💚 Interests
+- Deep Learning, Image Processing, Computer Vision, AI, OpenCV

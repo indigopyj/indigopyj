@@ -6,7 +6,7 @@
   
 #### 🔨 Career
 - Naver Search&Clova Vision Research Internship (2020.07 ~ 2020.10)
-- SNU MIPAL Internship   (2020.01 ~ 2020.02)
+- Seoul Nat'l Univ. Machine Intelligence & Pattern Recognition Lab Internship   (2020.01 ~ 2020.02)
 
 #### 💚 Interests
 - Deep Learning, Image Processing, Computer Vision, AI, OpenCV

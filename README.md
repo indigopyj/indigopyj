@@ -5,7 +5,7 @@
 - Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
   
 #### 🔨 Career
-- Naver Search&Clova Research Internship (2020.07 ~ 2020.10)
+- Naver Search&Clova Vision Research Internship (2020.07 ~ 2020.10)
 - SNU MIPAL Internship   (2020.01 ~ 2020.02)
 
 #### 💚 Interests

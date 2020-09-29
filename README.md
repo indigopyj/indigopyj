@@ -5,7 +5,7 @@
 - Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
   
 #### 🔨 Career
-- Naver Search Vision Research Internship (2020.07 ~ 2020.10)
+- Naver Search Vision Research Internship (2020.07 ~ 2020.09)
 - Seoul Nat'l Univ. Machine Intelligence & Pattern Recognition Lab Internship   (2020.01 ~ 2020.02)
 
 #### 💚 Interests

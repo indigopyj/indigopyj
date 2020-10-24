@@ -1,7 +1,7 @@
 ### 👋 indigo / @indigopyj / Yeo Jeong Park
 
 #### 📝 Education
-- Ewha Womans University, South Korea (2016.03 ~ )
+- Computer Engineering, Ewha Womans University, South Korea (2016.03 ~ )
 - Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
   
 #### 🔨 Career

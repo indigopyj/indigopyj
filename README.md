@@ -5,9 +5,9 @@
 - Exchange Student in Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
   
 #### 🔨 Career
-- KAIST Data and Visual Analytics Lab Internship (2020.10 ~ )
-- Naver Search Vision Research Internship (2020.07 ~ 2020.09)
-- Seoul Nat'l Univ. Machine Intelligence & Pattern Recognition Lab Internship   (2020.01 ~ 2020.02)
+- Bachelor Intern in KAIST Data and Visual Analytics Lab  (2020.10 ~ )
+- Research Intern in Naver Search Vision  (2020.07 ~ 2020.09)
+- Bachelor Intern in Seoul Nat'l Univ. Machine Intelligence & Pattern Recognition Lab  (2020.01 ~ 2020.02)
 
 #### 💚 Interests
 - Deep Learning, Image Processing, Computer Vision, AI, OpenCV

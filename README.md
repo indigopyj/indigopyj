@@ -1,7 +1,8 @@
 ### 👋 indigo / @indigopyj / Yeo Jeong Park
 
 #### 📝 Education
-- B.S. in Computer Engineering, Ewha Womans University, South Korea (2016.03 ~ )
+- M.S Candidate in KAIST Data and Visual Analytics Lab (2021.09 ~ )
+- B.S in Computer Engineering, Ewha Womans University, South Korea (2016.03 ~ )
 - Exchange Student in Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
   
 #### 🔨 Career

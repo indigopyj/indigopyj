@@ -2,7 +2,7 @@
 
 #### 📝 Education
 - M.S Candidate in KAIST Data and Visual Analytics Lab (2021.09 ~ )
-- B.S in Computer Engineering, Ewha Womans University  (2016.03 ~ )
+- B.S in Computer Engineering, Ewha Womans University  (2016.03 ~ 2021.02)
 - Exchange Student in Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
   
 #### 🔨 Career

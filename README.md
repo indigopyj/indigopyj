@@ -11,4 +11,4 @@
 - Exchange Student in Technische Universitat Darmstadt, Germany     (2018.02 ~ 2019.02)
 
 #### 💚 Interests
-- Computer Vision, Generative Model, Model compression, Image Processing
+- Computer Vision, Generative Model, Model compression, Knowledge Distillation, Efficient Deep Learning
